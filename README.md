@@ -68,15 +68,16 @@ I specialize in modern frontend architecture, 3D & motion-driven interfaces, Web
 
 ## 🌱 Currently Learning:
 
-- 🎨 **Learning to create creative & interactive websites**, enhancing user experiences through animations and advanced design techniques.
-- 🔐 **Diving deep into back-end technologies**, to focus on building **scalable** and **high-performance** applications.
-- 🔗 **Exploring Web3 & Blockchain** with a strong focus on wallet integrations, dApp UX, and seamless **Web2 → Web3** user experiences.
+- 🎨 **Creative & Interactive UI/UX** enhancements with animations
+- 🔐 **Diving deep into Back-end technologies**, by building **scalable** and **high-performance** applications.
+- 🔗 **Exploring Web3 & Blockchain** integrations, dApp UX, and seamless **Web2 → Web3** experiences.
+
 
 ---
 
 ## 📫 Connect with Me:
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://wa.me/](https://wa.me/923174394030))
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923174394030)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saithwaqasali)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saithwaqasali@outlook.com)
 
@@ -84,6 +85,6 @@ I specialize in modern frontend architecture, 3D & motion-driven interfaces, Web
 
 ## 💡 Fun Facts About Me:
 
-- 📚 I enjoy reading self-development and leadership books like The 7 Habits of Highly Effective People and similar mindset-driven reads
-- 🎬 Big fan of sci-fi and cinematic storytelling, especially web series and movies like Star Wars, Dune, and futuristic universes
-- 🧠 I believe strong engineering comes from a balance of continuous learning, creativity, and discipline
+- 📚 I enjoy reading **self-development and leadership** books like The 7 Habits of Highly Effective People and similar mindset-driven reads
+- 🎬 Big fan of **sci-fi and cinematic storytelling**, especially web series and movies like Star Wars, Dune, and futuristic universes
+- 🧠 I believe strong engineering comes from a balance of continuous learning, **creativity**, and **discipline**
