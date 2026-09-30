@@ -121,10 +121,12 @@
 
 ## 🏅 Certifications
 
-- ☁️ **AWS Certified Solutions Architect – Professional**
-- ☁️ **AWS Certified Solutions Architect – Associate** (2x)
-- ☁️ **AWS Certified Cloud Practitioner** (3x)
-- 🎓 **BS Computer Science** — Virtual University of Pakistan
+- ☁️ **AWS Certified Solutions Architect – Professional** — Amazon Web Services
+- ☁️ **AWS Certified Solutions Architect – Associate** — Amazon Web Services · certified 2x
+- ☁️ **AWS Certified Cloud Practitioner** — Amazon Web Services · certified 3x
+- 🧑‍💻 **Meta Full-Stack Certified Developer** — Meta
+- ⛓️ **Solidity Smart Contract Developer** — Cyfrin Updraft
+- 🎓 **BS Computer Science** — Virtual University of Pakistan, Lahore
 
 ---
 
