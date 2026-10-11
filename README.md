@@ -25,7 +25,7 @@
 
 | 🚀 **5+ years** | 👥 **300K+ users** | 🌍 **100+ clients** | ☁️ **3x AWS Certified** |
 |:---:|:---:|:---:|:---:|
-| shipping production apps | on products I've built or collaborated on | worldwide, with 100+ client reviews | incl. Solutions Architect – Professional |
+| shipping production apps | on products I've built or collaborated on | worldwide, with 100+ clients | incl. Solutions Architect – Professional |
 
 🔭 **Right now:** leading the [Kresus](https://kresus.com/consumer/mini-apps/) consumer mini-apps at **TekHQS** — full-stack, Web3 and AI, on World and Base, for **185K+ users** (mini-app revenue **+30%**).
 
